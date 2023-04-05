@@ -1,6 +1,6 @@
 <img alt="" src="https://cdn.august.com.au/wp-content/uploads/2015/04/Allan_Get-Web-Developer-Savvy_header.png"  />
 <h1 align="center">Hi 👋, I'm Neeraj Nishad</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg"
 
 
