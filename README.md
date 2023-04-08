@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ineerajnishad" target="blank"><img src="https://img.shields.io/twitter/follow/ineerajnishad?logo=twitter&style=for-the-badge" alt="ineerajnishad" /></a> </p>
 
-- 📫 How to reach me **neerajnishad5@gmail.com**
+- 📫 Contact me @ **neerajnishad5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
