@@ -1,13 +1,13 @@
 <!-- <img alt="" src="https://cdn.august.com.au/wp-content/uploads/2015/04/Allan_Get-Web-Developer-Savvy_header.png"  /> -->
 <h1 align="center">Hi 👋, I'm Neeraj Nishad</h1>
-<img align="right" alt="Coding" width="400" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg"
+<!-- <img align="right" alt="Coding" width="400" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg" -->
 
 
 <p></p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 
-<!-- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> -->
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
