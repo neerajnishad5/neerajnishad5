@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg"
 
 
-<p align="left"> <a href="https://twitter.com/ineerajnishad" target="blank"><img src="https://img.shields.io/twitter/follow/ineerajnishad?logo=twitter&style=for-the-badge" alt="ineerajnishad" /></a> </p>
+<p></p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 
