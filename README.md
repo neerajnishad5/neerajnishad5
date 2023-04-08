@@ -3,23 +3,20 @@
 <img align="right" alt="Coding" width="400" src="https://yolabs.in/wp-content/uploads/2020/09/kids-coding-art.jpg"
 
 
-
-
 <p align="left"> <a href="https://twitter.com/ineerajnishad" target="blank"><img src="https://img.shields.io/twitter/follow/ineerajnishad?logo=twitter&style=for-the-badge" alt="ineerajnishad" /></a> </p>
 
-- 📫 Contact me @ **neerajnishad5@gmail.com**
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
-- :school: I am a final year student at [Rungta College of Engineering & Technology, Bhilai](https://www.rungta.ac.in/) at [CSVT University](https://csvtu.ac.in/).
-- :technologist: I am working as a full stack `Software Engineer Intern` @ [West Agile Labs](http://westagilelabs.com).
-- :computer: I have primarily coded at `Leetcode`,`GeeksForGeeks` and `HackerRank`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+- 🧑‍🎓 I am a student of `Bachelor of Technology` at [Rungta College of Engineering & Technology, Bhilai](https://www.rungta.ac.in/) at [CSVT University](https://csvtu.ac.in/).
+- 👨‍💻 I am working as a full stack `Software Engineer Intern` @ [West Agile Labs](http://westagilelabs.com).
+- 💻 I have primarily coded at `Leetcode`,`GeeksForGeeks` and `HackerRank`.
+- 🧰 My tech stack includes: `SQL`, `Express.js`, `React` and `Node.js`.
+- 🤓 Always `learning new things`.
+- 📧 Contact me @ **neerajnishad5@gmail.com**
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajnishad5&label=Profile%20views&color=0e75b6&style=flat" alt="neerajnishad5" /> </p>
 
