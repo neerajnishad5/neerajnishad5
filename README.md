@@ -13,7 +13,7 @@
 
 - 🧑‍🎓 I am a student of `Bachelor of Technology` at [Rungta College of Engineering & Technology, Bhilai](https://www.rungta.ac.in/) at [CSVT University](https://csvtu.ac.in/).
 - 👨‍💻 I am working as a full stack `Software Engineer Intern` @ [West Agile Labs](http://westagilelabs.com).
-- 💻 I have primarily coded at [LeetCode](https://leetcode.com/neerajnishad/),[GeeksForGeeks](https://auth.geeksforgeeks.org/user/neerajnishad/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user) and [HackerRank](https://www.hackerrank.com/neerajnishad5).
+- 💻 I have primarily coded at [LeetCode](https://leetcode.com/neerajnishad/), [GeeksForGeeks](https://auth.geeksforgeeks.org/user/neerajnishad/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user) and [HackerRank](https://www.hackerrank.com/neerajnishad5).
 - 🧰 My tech stack includes: `SQL`, `Express.js`, `React` and `Node.js`.
 - 🤓 Always `learning new things`.
 - 📧 Contact me @ **neerajnishad5@gmail.com**
